@@ -1,2 +1,2 @@
 # Questions
-Repository of questions solved
+Repository of questions solved.
